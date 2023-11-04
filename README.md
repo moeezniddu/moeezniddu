@@ -5,11 +5,11 @@ About me
       <👯 I’m looking to collaborate with geeks</li>
       <l🥅 2023 Goals:
           <li>Contribute more to open-source projects</li>
-          <li>Contribute Daily to open source/li>
-          <li>🥅 2023 Goal:<br> Solve HackerRank Questions</li>
+          <li>Contribute Daily to open source</li>
+          <li>🥅 2023 Goal: Solve HackerRank Questions</li>
        Fun facts:
           <li>I'm a football player</li>
-          <li>I love sci-fi</li>
+          <li>cout<<"Programming in VEINS "<<endl;</li>
           <li>I listen to Ansar Elahi  Daily</li>
           <li>I can speak 6 languages</li>
       </li>
