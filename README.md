@@ -36,7 +36,7 @@
           <li>Solve HackerRank Questions</li>
        <strong>Fun Facts :</strong>
           <li>I'm a football player </li>
-          <li>cout<<"<strong>Programming in veins </strong>"<<endl;</li>
+          <li>cout<<"<strong>Programming in veins </strong><<endl;"</li>
           <li>I listen to Ansar Elahi  Daily</li>
           <li>I can speak 6 languages</li>
       </li>
